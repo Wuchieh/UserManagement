@@ -1,0 +1,9 @@
+{
+  "dbUri": "mongodb://localhost:27017",
+  "database" : "test",
+  "sessionStore": "QlgKVe8y8HzKKqto6zpbHBqNwP1QHbq5xN3z3BhfqkMvXF3Gm7",
+  "sessionExpiredTime": 600,
+  "ip": "127.0.0.1",
+  "port": "8080",
+  "ginMode": "Release"
+}
